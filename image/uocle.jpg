@@ -1,0 +1,2448 @@
+<!DOCTYPE html>
+<html lang="vi">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<title>
+			
+			Giò Chả Ước Lễ
+			
+			
+			
+			
+		</title>
+		<!-- description -->
+		
+		<meta name="description" content="Giò Ch&#7843; Ư&#7899;c L&#7877; - Chúng tôi chuyên nh&#7853;n đ&#7863;t làm và cung c&#7845;p các lo&#7841;i giò ch&#7843;: giò l&#7907;n, giò pha, giò hoa, giò chiên, ch&#7843; rán, ch&#7843; l&#7907;n . . . các s&#7843;n ph&#7849;m c&#7911;a chúng tôi đ&#7843;m b&#7843;o an toàn v&#7879; sinh th&#7921;c ph&#7849;m, thơm ngon. S&#7861;n sàng ph&#7909;c v&#7909; quý khách">
+		
+		<!-- meta -->
+		
+		
+		<meta name="keywords" content="Giò Chả Ước Lễ, giochauocle.net"/>
+		
+		
+		<link rel="canonical" href="https://giochauocle.net/"/>
+		<meta name='revisit-after' content='1 days' />
+		<meta name="robots" content="noodp,index,follow" />
+		<meta name="theme-color" content="#eb1c23">
+		<meta name="msapplication-TileColor" content="#eb1c23">
+		<!--favicon-->
+		
+		<link rel="icon" href="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/favicon.png?1548043172460" type="image/x-icon" />
+		
+		<style>
+			.body_preloader {
+				position: fixed;
+				z-index: 99999;
+				width: 100%;
+				height: 100%;
+				left: 0;
+				top: 0;
+				background-color: #fff;
+				-webkit-transition: all .1s ease;
+				-o-transition: all .1s ease;
+				transition: all .1s ease;
+				opacity: 1;
+				visibility: visible;
+			}
+			.body_preloader.loaded {
+				opacity: 0;
+				visibility: hidden;
+				z-index: -2;
+			}
+			.body_preloader svg {
+				left: 0;
+				position: absolute;
+				top: 50%;
+				transform: translateY(-50%);
+				-moz-transform: translateY(-50%);
+				-ms-transform: translateY(-50%);
+				-webkit-transform: translateY(-50%);
+			}
+
+			@-webkit-keyframes dash {
+				to {
+					stroke-dashoffset: -1200;
+				}
+			}
+
+			@keyframes dash {
+				to {
+					stroke-dashoffset: -1200;
+				}
+			}
+
+			@-webkit-keyframes fade {
+				0% {
+					opacity: 1;
+				}
+				50% {
+					opacity: 0;
+				}
+			}
+
+			@keyframes fade {
+				0% {
+					opacity: 1;
+				}
+				50% {
+					opacity: 0;
+				}
+			}
+
+			.body_preloader svg {
+				margin: 0 -1rem;
+			}
+
+			.body_preloader .ekg {
+				opacity: 1;
+				stroke-dasharray: 600;
+				-webkit-animation: dash 5s linear forwards infinite, fade 5s linear infinite;
+				animation: dash 5s linear forwards infinite, fade 5s linear infinite;
+			}
+		</style>
+
+		
+<script>
+	var Bizweb = Bizweb || {};
+	Bizweb.store = 'giochauocle.mysapo.net';
+	Bizweb.id = 337568;
+	Bizweb.theme = { 'id': 694007, 'name': 'EGA Phòng khám', 'role': 'main' };
+	Bizweb.template = 'index';
+</script>
+<script>
+	(function () {
+		function asyncLoad() {
+			var urls = ["https://googleshopping.sapoapps.vn/conversion-tracker/global-tag/1968.js?store=giochauocle.mysapo.net","https://googleshopping.sapoapps.vn/conversion-tracker/event-tag/1968.js?store=giochauocle.mysapo.net"];
+			for (var i = 0; i < urls.length; i++) {
+				var s = document.createElement('script');
+				s.type = 'text/javascript';
+				s.async = true;
+				s.src = urls[i];
+				var x = document.getElementsByTagName('script')[0];
+				x.parentNode.insertBefore(s, x);
+			}
+		};
+		window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
+	})();
+</script>
+
+
+<script type='text/javascript'>
+	(function () {
+		var log = document.createElement('script'); log.type = 'text/javascript';
+		log.async = true;
+		log.src = '//stats.bizweb.vn/delivery/337568.js?lang=vi';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(log, s);
+	})();
+</script>
+
+<script>
+	window.BizwebAnalytics = window.BizwebAnalytics || {};
+	window.BizwebAnalytics.meta = window.BizwebAnalytics.meta || {};
+	window.BizwebAnalytics.meta.currency = 'VND';
+	
+	var meta = {};
+	
+	for (var attr in meta) {
+		window.BizwebAnalytics.meta[attr] = meta[attr];
+	}
+</script>
+
+
+
+
+
+
+
+		
+		<script src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/require.js?1548043172460" type="text/javascript"></script>
+		
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<script>
+    requirejs.config({
+		waitSeconds : 30,
+        paths:
+            {
+                jquery: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/jquery-1.12.4.min.js?1548043172460",
+                bootstrapCss: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/bootstrap.min.js?1548043172460",
+                owlCarousel: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/owl.carousel.min.js?1548043172460",
+                bizwebAPI:"//bizweb.dktcdn.net/assets/themes_support/api.jquery",
+                Vue:"//bizweb.dktcdn.net/100/337/568/themes/694007/assets/vue.min.js?1548043172460",
+                underscore:"//bizweb.dktcdn.net/100/337/568/themes/694007/assets/underscore-min.js?1548043172460",
+                miniCart:"//bizweb.dktcdn.net/100/337/568/themes/694007/assets/mini-cart.js?1548043172460",
+                elevatezoom: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/jquery.elevatezoom.js?1548043172460",
+                localProduct: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/localproduct.js?1548043172460",
+				forkit: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/forkit-dev.js?1548043172460",
+				jqueryUI: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/jquery-ui.min.js?1548043172460",
+				pikaday: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/pikaday.js?1548043172460",
+				datepicker: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/datepicker.js?1548043172460",
+				Rx: "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/rx.all.min.js?1548043172460"
+            },
+        shim:
+            {
+                jquery: {
+                    exports: '$'
+                },
+                bootstrapCss: {
+                    deps: ['jquery'],
+                    exports: 'bootstrapCss'
+                },
+                owlCarousel: {
+                    deps: ['jquery'],
+                    exports: 'bootstrapCss'
+                },
+                bizwebAPI: {
+                    deps: ['jquery'],
+                    exports: 'bizwebAPI'
+                },
+                Vue: {
+                    deps: [],
+                    exports: 'Vue'
+                },
+                underscore:{
+                    deps: [],
+                    exports: '_'
+                },
+                miniCart:{
+                    deps: ['jquery','underscore','bootstrapCss','bizwebAPI'],
+                    exports: 'miniCart'
+                },
+                elevatezoom: {
+                    deps: ['jquery'],
+                    exports: 'elevatezoom'
+                },
+                localProduct:{
+                    deps: ['jquery','underscore','bizwebAPI'],
+                    exports: 'localProduct'
+                },
+				forkit:{
+                    deps: ['jquery'],
+                    exports: 'forkit'
+                },
+				jqueryUI:{
+                    deps: ['jquery'],
+                    exports: 'jqueryUI'
+                },
+				pikaday:{
+                    deps: [],
+                    exports: 'Pikaday'
+                },
+				datepicker:{
+                    deps: ['jquery','jqueryUI'],
+                    exports: 'datepicker'
+                },
+				Rx:{
+                    deps: [],
+                    exports: 'Rx'
+                }
+            }
+    });
+</script>
+
+		
+
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Giò Ch&#7843; Ư&#7899;c L&#7877;">
+  <meta property="og:image" content="http://bizweb.dktcdn.net/100/337/568/themes/694007/assets/logo.png?1548043172460">
+  <meta property="og:image:secure_url" content="https://bizweb.dktcdn.net/100/337/568/themes/694007/assets/logo.png?1548043172460">
+
+
+  <meta property="og:description" content="Giò Ch&#7843; Ư&#7899;c L&#7877; - Chúng tôi chuyên nh&#7853;n đ&#7863;t làm và cung c&#7845;p các lo&#7841;i giò ch&#7843;: giò l&#7907;n, giò pha, giò hoa, giò chiên, ch&#7843; rán, ch&#7843; l&#7907;n . . . các s&#7843;n ph&#7849;m c&#7911;a chúng tôi đ&#7843;m b&#7843;o an toàn v&#7879; sinh th&#7921;c ph&#7849;m, thơm ngon. S&#7861;n sàng ph&#7909;c v&#7909; quý khách">
+
+
+  <meta property="og:url" content="https://giochauocle.net/">
+  <meta property="og:site_name" content="Giò Chả Ước Lễ">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	</head>
+	<body>
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.12';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		
+
+<div class="body_preloader">
+	 
+	
+	
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+	setTimeout(
+		function(){ 
+			document.querySelector('.body_preloader').classList.add('loaded');
+		}, 
+		1000
+	);
+  })
+</script>
+		<div id="main">
+			
+
+
+
+
+
+<header class="header">
+	<div class="ega-top-header visible-lg">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-3 hidden">
+					<div class="ega-item-top-bar logo-wrap">
+                        
+							<h1 class="h1-no-margin-padding">
+								<span style="display: none">Giò Chả Ước Lễ</span>
+								<a href="/" title="Giò Chả Ước Lễ">
+									<img alt="Giò Chả Ước Lễ" src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/logo.png?1548043172460" class="ega-logo">
+								</a>
+							</h1>
+                        
+
+					</div>
+				</div>
+				<div class="col-xs-6">
+					<div class="ega-item-top-bar">
+                        
+							<form class="ega-form-search-top" role="search" method="get" action="/search">
+								<div class="ega-div-top-search">
+									<input autocomplete="off" name="query" type="search"  placeholder="Nhập từ khóa tìm kiếm..." />
+									<button type="submit">
+										<span class="glyphicon glyphicon-search"></span>
+									</button>
+								</div>
+							</form>
+                        
+					</div>
+				</div>
+				<div class="col-xs-6 text-right">
+					<div class="ega-item-top-bar">
+						<div class="ega-top-message">
+                            
+								<span class="">
+								Hotline:
+							</span>
+								<a class="ega-phone" href="tel:0966147369">
+                                    0966147369
+								</a>
+								<span class="ega-fz-12 ega-header-top-item">
+								(
+                                    7:00 - 22:00
+                                    )
+							</span>
+                            
+
+                            
+								<span class="hidden-xs ega-header-top-item">
+									<a title="Đăng ký/Đăng nhập" href="/account" style="font-size: 12px; z-index: 10000; position: relative;" class="ega-a-account-header">
+											<span class="glyphicon glyphicon-user"></span>
+                                        Đăng ký / Đăng nhập
+									</a>
+								</span>
+                            
+
+							  
+							<span class="ega-header-top-item ega-top-cart-sendo">
+								<a class="ega-a-cart-icon-top" href="/cart" title="cart">
+									<span class="glyphicon glyphicon-shopping-cart">
+
+									</span>
+									<span class="ega-a-cart-icon-top__number ega-header-top-item">
+										0
+									</span>
+								</a>
+							</span>
+							
+
+						</div>
+
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<a class="forkit hidden" data-text="ĐẶT LỊCH KHÁM" data-text-detached="Kéo xuống &gt;" style="transform: translate(0px, 9.96688e-315px) rotate(0deg);">
+			<span class="string" style="transform: translate(44px, 0px) rotate(165.964deg); width: 1.78876px;"></span>
+			<span class="tag" style="transform: translate(44px, -15px) rotate(45deg);">ĐẶT LỊCH KHÁM</span>
+		</a>
+	</div>
+
+	<!--menu-->
+	<div>
+		<div class="navbar yamm navbar-default ega-menu-top" >
+			<div class="container ega-container-header-sm">
+				<div class="navbar-header hidden-lg">
+					<div class="row ega-xs-menu">
+						<div class="col-xs-2 ega-col-no-padding-xs">
+							<button type="button"
+									class="navbar-toggle collapsed ega-menu-hambuger"
+									id="ega-btn-menu-hambuger"
+									data-target="#ega-menu-deiv-top"
+									aria-expanded="false">
+								<span class="sr-only"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="col-xs-6 col-sm-8 text-center">
+							<div class="logo-wrap">
+								<a href="/">
+									<img alt="Giò Chả Ước Lễ"  src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/logo.png?1548043172460" class="ega-logo center-block">
+								</a>
+							</div>
+						</div>
+						<div class="col-xs-4 col-sm-2 text-right ega-search-ico-xs" >
+							  
+							<a class="ega-a-cart-icon-top ega-top-cart-sendo" href="/cart" title="cart">
+									<span class="glyphicon glyphicon-shopping-cart">
+									</span>
+								<span class="ega-a-cart-icon-top__number ega-header-top-item">
+										0
+									</span>
+							</a>
+							 
+							<button id="btn-click-search-xs" class="btn btn-sm ega-btn">
+								<span class="glyphicon glyphicon-search"></span>
+							</button>
+
+						</div>
+					</div>
+					<div class="hidden-lg">
+						<div class="row">
+							<div class="col-xs-12">
+                                
+									<form id="ega-search-xs-form" style="display: none" class="ega-form-search-top"
+										  role="search"  method="get" action="/search">
+										<div class="ega-div-top-search">
+											<input autocomplete="off" name="query" type="search"  placeholder="Nhập từ khóa tìm kiếm..." />
+											<button type="submit"><span class="glyphicon glyphicon-search"></span></button>
+										</div>
+									</form>
+                                
+							</div>
+						</div>
+					</div>
+
+				</div>
+				<div id="ega-menu-deiv-top" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+                        
+                            
+                                
+                                
+                                
+                                    
+                                
+
+                                
+								<!--submenu-->
+								<li class="dropdown yamm-fw ega-dropdown-menu li-ega-menu-no-mega">
+									<a href="/" title="Giới thiệu" data-toggle="dropdown"
+									   class="dropdown-toggle visible-lg" aria-expanded="true">
+                                        Giới thiệu
+										<b class="caret hidden-xs"></b>
+									</a>
+									<div class="visible-ega-table-xs ega-menu-xs-drop-down">
+										<a href="/" title="Giới thiệu">
+                                            Giới thiệu
+										</a>
+										<a href="javascript:void(0)"
+										   class="ega-menu-right-down-ico">
+                                            <span class="">
+											    <span class="glyphicon glyphicon-menu-down"></span>
+										    </span>
+										</a>
+									</div>
+									<ul class="dropdown-menu ega-menu-no-mega "  >
+                                        
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="LÀNG ƯỚC LỄ" href="/lang-uoc-le" class="ega-sub-menu-a">
+														<div >
+                                                            LÀNG ƯỚC LỄ
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="LỄ HỘI CỦA LÀNG" href="/le-hoi-cua-lang" class="ega-sub-menu-a">
+														<div >
+                                                            LỄ HỘI CỦA LÀNG
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="HỘI ĐỒNG HƯƠNG ƯỚC LỄ" href="/hoi-dong-huong-uoc-le" class="ega-sub-menu-a">
+														<div >
+                                                            HỘI ĐỒNG HƯƠNG ƯỚC LỄ
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="DANH NHÂN - NGƯỜI TỐT VIỆC TỐT" href="/danh-nhan-nguoi-tot-viec-tot" class="ega-sub-menu-a">
+														<div >
+                                                            DANH NHÂN - NGƯỜI TỐT VIỆC TỐT
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+                                        
+
+									</ul>
+								</li>
+                            
+                        
+                            
+                                
+                                
+                                
+                                    
+                                
+
+                                
+								<!--submenu-->
+								<li class="dropdown yamm-fw ega-dropdown-menu li-ega-menu-no-mega">
+									<a href="/tin-tuc" title="Tin tức – Sự kiện" data-toggle="dropdown"
+									   class="dropdown-toggle visible-lg" aria-expanded="true">
+                                        Tin tức – Sự kiện
+										<b class="caret hidden-xs"></b>
+									</a>
+									<div class="visible-ega-table-xs ega-menu-xs-drop-down">
+										<a href="/tin-tuc" title="Tin tức – Sự kiện">
+                                            Tin tức – Sự kiện
+										</a>
+										<a href="javascript:void(0)"
+										   class="ega-menu-right-down-ico">
+                                            <span class="">
+											    <span class="glyphicon glyphicon-menu-down"></span>
+										    </span>
+										</a>
+									</div>
+									<ul class="dropdown-menu ega-menu-no-mega "  >
+                                        
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Tin tức" href="/tin-tuc" class="ega-sub-menu-a">
+														<div >
+                                                            Tin tức
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Sự kiện" href="/su-kien" class="ega-sub-menu-a">
+														<div >
+                                                            Sự kiện
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+                                        
+
+									</ul>
+								</li>
+                            
+                        
+                            
+                                
+                                
+                                
+                                    
+                                
+
+                                
+								<!--submenu-->
+								<li class="dropdown yamm-fw ega-dropdown-menu li-ega-menu-no-mega">
+									<a href="/cac-di-tich" title="Các di tích" data-toggle="dropdown"
+									   class="dropdown-toggle visible-lg" aria-expanded="true">
+                                        Các di tích
+										<b class="caret hidden-xs"></b>
+									</a>
+									<div class="visible-ega-table-xs ega-menu-xs-drop-down">
+										<a href="/cac-di-tich" title="Các di tích">
+                                            Các di tích
+										</a>
+										<a href="javascript:void(0)"
+										   class="ega-menu-right-down-ico">
+                                            <span class="">
+											    <span class="glyphicon glyphicon-menu-down"></span>
+										    </span>
+										</a>
+									</div>
+									<ul class="dropdown-menu ega-menu-no-mega "  >
+                                        
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Cổng làng" href="/cong-lang" class="ega-sub-menu-a">
+														<div >
+                                                            Cổng làng
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Đình làng" href="/dinh-lang" class="ega-sub-menu-a">
+														<div >
+                                                            Đình làng
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Chợ" href="/cho" class="ega-sub-menu-a">
+														<div >
+                                                            Chợ
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Đền chợ" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Đền chợ
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Miếu thờ Quan Công" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Miếu thờ Quan Công
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Miếu thờ Khổng Tử" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Miếu thờ Khổng Tử
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Quán mới" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Quán mới
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Quán Thanh Lương" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Quán Thanh Lương
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Điếm tuần" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Điếm tuần
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Giếng Ngõ Phát" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Giếng Ngõ Phát
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Giếng Xóm Họ" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Giếng Xóm Họ
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Giếng Chùa" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Giếng Chùa
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Giếng Đồng Bượng" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Giếng Đồng Bượng
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Các địa danh khác của Làng" href="/" class="ega-sub-menu-a">
+														<div >
+                                                            Các địa danh khác của Làng
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+                                        
+
+									</ul>
+								</li>
+                            
+                        
+                            
+                                
+                                
+                                
+                                    
+                                
+
+                                
+								<!--submenu-->
+								<li class="dropdown yamm-fw ega-dropdown-menu li-ega-menu-no-mega">
+									<a href="/collections/all" title="Sản phẩm" data-toggle="dropdown"
+									   class="dropdown-toggle visible-lg" aria-expanded="true">
+                                        Sản phẩm
+										<b class="caret hidden-xs"></b>
+									</a>
+									<div class="visible-ega-table-xs ega-menu-xs-drop-down">
+										<a href="/collections/all" title="Sản phẩm">
+                                            Sản phẩm
+										</a>
+										<a href="javascript:void(0)"
+										   class="ega-menu-right-down-ico">
+                                            <span class="">
+											    <span class="glyphicon glyphicon-menu-down"></span>
+										    </span>
+										</a>
+									</div>
+									<ul class="dropdown-menu ega-menu-no-mega "  >
+                                        
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Sản phẩm khuyến mãi" href="/san-pham-khuyen-mai" class="ega-sub-menu-a">
+														<div >
+                                                            Sản phẩm khuyến mãi
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Sản phẩm nổi bật" href="/san-pham-noi-bat" class="ega-sub-menu-a">
+														<div >
+                                                            Sản phẩm nổi bật
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Sản phẩm mới" href="/san-pham-moi" class="ega-sub-menu-a">
+														<div >
+                                                            Sản phẩm mới
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+                                        
+
+									</ul>
+								</li>
+                            
+                        
+                            
+                                
+                                
+                                
+                                    
+                                
+
+                                
+								<!--submenu-->
+								<li class="dropdown yamm-fw ega-dropdown-menu li-ega-menu-no-mega">
+									<a href="/goc-van-hoa" title="Góc văn hóa" data-toggle="dropdown"
+									   class="dropdown-toggle visible-lg" aria-expanded="true">
+                                        Góc văn hóa
+										<b class="caret hidden-xs"></b>
+									</a>
+									<div class="visible-ega-table-xs ega-menu-xs-drop-down">
+										<a href="/goc-van-hoa" title="Góc văn hóa">
+                                            Góc văn hóa
+										</a>
+										<a href="javascript:void(0)"
+										   class="ega-menu-right-down-ico">
+                                            <span class="">
+											    <span class="glyphicon glyphicon-menu-down"></span>
+										    </span>
+										</a>
+									</div>
+									<ul class="dropdown-menu ega-menu-no-mega "  >
+                                        
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Phim ngắn" href="/phim-ngan" class="ega-sub-menu-a">
+														<div >
+                                                            Phim ngắn
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Ảnh" href="/anh-goc-van-hoa" class="ega-sub-menu-a">
+														<div >
+                                                            Ảnh
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+												<li class="dropdown-submenu-2" >
+													<a title="Thơ ca" href="/tho-ca" class="ega-sub-menu-a">
+														<div >
+                                                            Thơ ca
+                                                            
+														</div>
+
+													</a>
+                                                    
+												</li>
+
+                                            
+                                        
+
+									</ul>
+								</li>
+                            
+                        
+                            
+								<li>
+									<a title="Ẩm thực bốn phương" href="/am-thuc-bon-phuong">Ẩm thực bốn phương</a>
+								</li>
+                            
+                        
+                            
+								<li>
+									<a title="Hỏi đáp" href="/hoi-dap">Hỏi đáp</a>
+								</li>
+                            
+                        
+                            
+								<li>
+									<a title="Liên hệ" href="/lien-he">Liên hệ</a>
+								</li>
+                            
+                        
+
+					</ul>
+                    
+						<ul class="nav navbar-nav visible-xs visible-sm">
+							<li>
+								<a href="/account" title="account">
+									Đăng nhập/Đăng ký
+								</a>
+							</li>
+						</ul>
+                    
+				</div>
+			</div>
+		</div>
+	</div>
+
+</header>
+<script>
+	if(document.body.clientWidth > 991){
+		require(['forkit'],function(){
+			
+		})  
+	}
+    require(['jquery'],function ($) {
+        $(document).on("click","a.dropdown-toggle",function () {
+            window.location = $(this).attr('href');
+        });
+        $("a.ega-menu-right-down-ico").click(function (e) {
+            e.stopImmediatePropagation();
+            e.stopPropagation();
+            $(this).parent().parent().toggleClass('open');
+
+        });
+        $("#ega-btn-menu-hambuger").click(function () {
+
+            if($(this).attr('aria-expanded')==='false')
+            {
+                $(this).html('<span class="glyphicon glyphicon-remove" style="font-size: 18px;color: #fff; display: block; height: 15px;"></span>');
+                $(this).attr('aria-expanded','true');
+                $($(this).data('target')).slideDown();
+            }
+            else
+            {
+                $(this).attr('aria-expanded','false');
+                $(this).html('<span class="sr-only"></span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>');
+                $($(this).data('target')).slideUp();
+            }
+        });
+
+        $("#btn-click-search-xs").click(function () {
+            if($(this).find(">span").hasClass('glyphicon-search'))
+            {
+                $("#ega-search-xs-form").slideDown();
+                $(this).find(">span").removeClass('glyphicon-search').addClass('glyphicon-remove');
+            }
+            else{
+                $("#ega-search-xs-form").slideUp();
+                $(this).find(">span").removeClass('glyphicon-remove').addClass('glyphicon-search');
+            }
+
+        });
+        $(".show-hide-table").click(function (e) {
+            e.preventDefault();
+            e.stopImmediatePropagation();
+            $(this).parent().parent().parent().find('.ega-menu-three').toggle();
+        })
+
+    });
+</script>
+			<main>
+				<div class="container" style="background: #fff">
+	<!--session home page: only session lider-->
+	
+	
+	
+	<section class="ega-section-1">
+		<!-- include session-->
+		<div id="ega-home-slider" class="ega-home-slider owl-carousel owl-theme" >
+    
+        
+        
+        
+        
+		
+		
+            
+		
+        
+			<div class="item">
+				<a href="/collections/all" title="Tất cả sản phẩm" class="clearfix">
+					<img class="img-slider-home" data-max-width="1160"
+						 src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/slider_1.jpg?1548043172460" alt="Tất cả sản phẩm">
+				</a>
+			</div>
+        
+    
+        
+        
+        
+        
+		
+		
+        
+    
+        
+        
+        
+        
+		
+		
+        
+    
+        
+        
+        
+        
+		
+		
+        
+    
+        
+        
+        
+        
+		
+		
+        
+    
+</div>
+<script>
+    require(['jquery','owlCarousel'],function ($,owlCarousel) {
+        $('#ega-home-slider').owlCarousel({
+            items:1,
+            loop:true,
+			autoplay:true,
+			autoplayTimeout:3000,
+			autoplayHoverPause:true,
+            nav: true,
+            navText: ["<span class='glyphicon glyphicon-menu-left'></span>","<span class='glyphicon glyphicon-menu-right'></span>"],
+            dots:true
+
+        });
+    });
+</script>
+	</section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div class="row"> 
+		<div class="col-sm-8">
+			<h2 class="home-title">
+				 
+				<a href="tin-tuc" title="TIN TỨC">TIN TỨC</a>
+			</h2>
+			<div class="row" style="margin-bottom: 20px;">
+				<div class="col-md-6 col-lg-6">
+					
+					  
+					<div class="featured-article">
+						<a href="/nhung-hinh-anh-ngay-le-dai-ky-phuoc-12-8-2018-tai-dinh-lang-uoc-le-tan-uoc-thanh-oai-ha-noi">
+							<img class="thumb"  src="//bizweb.dktcdn.net/thumb/grande/100/337/568/articles/hoi-lang-uoc-le-6-2018.jpg?v=1567584005233" alt="Những hình ảnh ngày Lễ Đại Kỳ phước 12- 8 - 2018 tại đình làng Ước Lễ - Tân Ước - Thanh Oai - Hà Nội">
+						</a>
+						<div class="block-title" style="margin-top: 10px;">
+							<h3 class="media-heading"><a href="/nhung-hinh-anh-ngay-le-dai-ky-phuoc-12-8-2018-tai-dinh-lang-uoc-le-tan-uoc-thanh-oai-ha-noi">Những hình ảnh ngày Lễ Đại Kỳ phước 12- 8 - 2018 tại đình làng Ước Lễ - Tân Ước - Thanh Oai - Hà Nội</a></h3>
+							<p> 
+ 
+ 
+	   
+ 
+ 
+	   
+ 
+ 
+	   
+ 
+ 
+	   
+ 
+ 
+	   
+ 
+ 
+	 ...</p>
+						</div>
+					</div>
+					
+					 
+				</div>
+				<div class="col-md-6 col-lg-6">
+					<ul class="media-list main-list">
+						 
+						  
+						 
+						  
+						  
+						<li class="media">
+							<a class="pull-left img-thumbnail" href="/thong-bao-ve-viec-lam-24-cot-da-cua-3-day-nha-trai-chua-so">
+								<img class="media-object"  src="//bizweb.dktcdn.net/thumb/small/100/337/568/articles/cot-da-nv-05-310x232.jpg?v=1550479665533" alt="THÔNG BÁO VỀ VIỆC LÀM 24 CỘT ĐÁ CỦA 3 DÃY NHÀ TRAI CHÙA SỔ">
+							</a>
+							<div class="media-body">
+								<h3 class="media-heading">
+									<a href="/thong-bao-ve-viec-lam-24-cot-da-cua-3-day-nha-trai-chua-so">THÔNG BÁO VỀ VIỆC LÀM 24 CỘT ĐÁ CỦA 3 DÃY NHÀ TRAI CHÙA SỔ</a>
+								</h3>
+								<p><i class="glyphicon glyphicon-time"></i> 18/02/2019</p>
+							</div>
+						</li>
+						 
+						  
+						  
+						<li class="media">
+							<a class="pull-left img-thumbnail" href="/cach-chon-gio-cha-ngon-cho-mam-com-tet">
+								<img class="media-object"  src="//bizweb.dktcdn.net/thumb/small/100/337/568/articles/tai-xuong-1.jpg?v=1547818851947" alt="Cách chọn giò chả ngon cho mâm cơm Tết">
+							</a>
+							<div class="media-body">
+								<h3 class="media-heading">
+									<a href="/cach-chon-gio-cha-ngon-cho-mam-com-tet">Cách chọn giò chả ngon cho mâm cơm Tết</a>
+								</h3>
+								<p><i class="glyphicon glyphicon-time"></i> 18/01/2019</p>
+							</div>
+						</li>
+						 
+						  
+						  
+						<li class="media">
+							<a class="pull-left img-thumbnail" href="/muon-an-cha-bo-uoc-le-ngon-hay-den-voi-gio-cha-ba-binh">
+								<img class="media-object"  src="//bizweb.dktcdn.net/thumb/small/100/337/568/articles/tai-xuong-8.jpg?v=1547739874353" alt="Muốn ăn chả bò Ước Lễ ngon, hãy đến với giò chả Bà Bính">
+							</a>
+							<div class="media-body">
+								<h3 class="media-heading">
+									<a href="/muon-an-cha-bo-uoc-le-ngon-hay-den-voi-gio-cha-ba-binh">Muốn ăn chả bò Ước Lễ ngon, hãy đến với giò chả Bà Bính</a>
+								</h3>
+								<p><i class="glyphicon glyphicon-time"></i> 17/01/2019</p>
+							</div>
+						</li>
+						 
+						  
+						  
+						<li class="media">
+							<a class="pull-left img-thumbnail" href="/dia-chi-mua-gio-xao-uoc-le-thom-ngon-cho-dip-tet">
+								<img class="media-object"  src="//bizweb.dktcdn.net/thumb/small/100/337/568/articles/tai-xuong-6.jpg?v=1547739583410" alt="Địa chỉ mua giò xào Ước Lễ thơm ngon cho dịp Tết">
+							</a>
+							<div class="media-body">
+								<h3 class="media-heading">
+									<a href="/dia-chi-mua-gio-xao-uoc-le-thom-ngon-cho-dip-tet">Địa chỉ mua giò xào Ước Lễ thơm ngon cho dịp Tết</a>
+								</h3>
+								<p><i class="glyphicon glyphicon-time"></i> 17/01/2019</p>
+							</div>
+						</li>
+						 
+						
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 col-md-12">
+					
+					 
+					<h2 class="line-title clearfix">
+						<a href="su-kien " title="SỰ KIỆN ">SỰ KIỆN</a>
+					</h2>
+					<div class="two-block well">
+						 
+							
+								 
+									<div class="media">
+										<a class="pull-left" href="/loi-keu-goi-cua-chi-hoi-nguoi-cao-tuoi-thon-uoc-le-cong-duc-xay-dung-vuon-hoa-truoc-cua-dinh">
+											<img class="media-object"  src="//bizweb.dktcdn.net/thumb/compact/100/337/568/articles/so-do-dinh-lang-uoc-le-2.jpg?v=1542773361517" alt="LỜI KÊU GỌI CỦA CHI HỘI NGƯỜI CAO TUỔI THÔN ƯỚC LỄ CÔNG ĐỨC XÂY DỰNG VƯỜN HOA TRƯỚC CỬA ĐÌNH">
+										</a>
+										<div class="media-body">
+											<h3 class="media-heading"><a href="/loi-keu-goi-cua-chi-hoi-nguoi-cao-tuoi-thon-uoc-le-cong-duc-xay-dung-vuon-hoa-truoc-cua-dinh" title="LỜI KÊU GỌI CỦA CHI HỘI NGƯỜI CAO TUỔI THÔN ƯỚC LỄ CÔNG ĐỨC XÂY DỰNG VƯỜN HOA TRƯỚC CỬA ĐÌNH">LỜI KÊU GỌI CỦA CHI HỘI NGƯỜI CAO TUỔI THÔN...</a></h3>
+											<p>   
+   
+   
+   
+  ...</p>
+										</div>
+									</div>
+								 
+							 
+						 
+					</div>
+					<ul class="news-list">
+						 
+							
+								 
+							
+								
+									<li>
+										<h3><a href="/loi-keu-goi-cua-nguyen-hoi-truong-hoi-dong-huong-uoc-le" title="Lời kêu gọi của nguyên Hội trưởng Hội đồng hương Ước Lễ">Lời kêu gọi của nguyên Hội trưởng Hội đồng hương Ước Lễ</a></h3> 
+									</li>
+								 
+							 
+						 
+					</ul>
+				</div>
+				<div class="col-lg-6 col-md-12">
+					 
+					
+					<h2 class="line-title clearfix">
+						<a href="am-thuc-bon-phuong " title="ẨM THỰC BỐN PHƯƠNG ">ẨM THỰC BỐN PHƯƠNG</a>
+					</h2>
+					<div class="two-block well">
+						
+							
+								<div class="media">
+									<a class="pull-left" href="/cach-lam-chan-gio-muoi-la-mieng-cho-ngay-tet">
+										<img class="media-object"  src="//bizweb.dktcdn.net/thumb/compact/100/337/568/articles/gio-cha-uoc-le-1.jpg?v=1542643155633" alt="Cách làm chân giò muối lạ miệng cho ngày Tết">
+									</a>
+									<div class="media-body">
+										<h3 class="media-heading"><a href="/cach-lam-chan-gio-muoi-la-mieng-cho-ngay-tet" title="Cách làm chân giò muối lạ miệng cho ngày Tết">Cách làm chân giò muối lạ miệng cho ngày Tết</a></h3>
+										<p>         “Ăn gì ngày Tết?” luôn là...</p>
+									</div>
+								</div>
+							 
+						 
+					</div>
+					<ul class="news-list">
+						 
+							
+								 
+							
+								
+									<li>
+										<h3><a href="/cach-lam-banh-hamburger-don-gian-tai-nha" title="Cách làm bánh Hamburger đơn giản tại nhà">Cách làm bánh Hamburger đơn giản tại nhà</a></h3> 
+									</li>
+								 
+							
+								
+									<li>
+										<h3><a href="/10-mon-an-truyen-thong-chuan-vi-ha-noi-ai-cung-phat-them" title="10 món ăn truyền thống chuẩn vị Hà Nội ai cũng phát thèm">10 món ăn truyền thống chuẩn vị Hà Nội ai cũng phát thèm</a></h3> 
+									</li>
+								 
+							
+						 
+					</ul>
+				</div>
+			</div>
+			<div id="goctrian">
+				<h2 class="line-title clearfix">
+					<span>GÓC TRI ÂN</span>
+				</h2>
+				
+				<div id="myCarousel" class="owl-carousel owl-theme">
+					  
+						
+						 
+						 
+						 
+					
+						  
+							<div class="item">
+								<img src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/quote_img_1.jpg?1548043172460" class="img-circle" alt="Lương Thị Lan" width="65" height="65">
+								<span>Tôi rất hài lòng với sản phẩm chả heo của các bạn. Chả có mùi vị thơm ngon, thanh thoát, dẻo. Rất ngon</span>
+								<b>Lương Thị Lan</b>
+							</div>
+						
+					  
+						
+						 
+						 
+						 
+					
+						  
+							<div class="item">
+								<img src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/quote_img_2.jpg?1548043172460" class="img-circle" alt="Mai Giang" width="65" height="65">
+								<span>Tôi rất hài lòng với sản phẩm chả heo của các bạn. Chả có mùi vị thơm ngon, thanh thoát, dẻo. Rất ngon</span>
+								<b>Mai Giang</b>
+							</div>
+						
+					  
+						
+						 
+						 
+						 
+					
+						  
+							<div class="item">
+								<img src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/quote_img_3.jpg?1548043172460" class="img-circle" alt="Đinh thùy dương" width="65" height="65">
+								<span>Tôi rất hài lòng với sản phẩm chả heo của các bạn. Chả có mùi vị thơm ngon, thanh thoát, dẻo. Rất ngon</span>
+								<b>Đinh thùy dương</b>
+							</div>
+						
+					  
+						
+						 
+						 
+						 
+					
+						  
+							<div class="item">
+								<img src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/quote_img_4.jpg?1548043172460" class="img-circle" alt="Nguyễn Văn An" width="65" height="65">
+								<span>Tôi rất hài lòng với sản phẩm chả heo của các bạn. Chả có mùi vị thơm ngon, thanh thoát, dẻo. Rất ngon</span>
+								<b>Nguyễn Văn An</b>
+							</div>
+						
+					  
+						
+						 
+						 
+						 
+					
+						  
+							<div class="item">
+								<img src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/quote_img_5.jpg?1548043172460" class="img-circle" alt="Lê Hải Nam" width="65" height="65">
+								<span>Tôi rất hài lòng với sản phẩm chả heo của các bạn. Chả có mùi vị thơm ngon, thanh thoát, dẻo. Rất ngon</span>
+								<b>Lê Hải Nam</b>
+							</div>
+						
+					  
+						
+						 
+						 
+						 
+					
+						  
+							<div class="item">
+								<img src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/quote_img_6.jpg?1548043172460" class="img-circle" alt="Nguyễn Mai Chi" width="65" height="65">
+								<span>Tôi rất hài lòng với sản phẩm chả heo của các bạn. Chả có mùi vị thơm ngon, thanh thoát, dẻo. Rất ngon</span>
+								<b>Nguyễn Mai Chi</b>
+							</div>
+						
+					  
+						
+						 
+						 
+						 
+					
+						
+					  
+						
+						 
+						 
+						 
+					
+						
+					 
+				</div>
+				
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div id="departments" style="margin-bottom: 25px;">
+				<h2 class="home-title">
+					<span>Sản phẩm</span>
+				</h2>
+				<div class="" id="accordion" role="tablist" aria-multiselectable="true">
+					  
+					 
+					 
+					 
+					 
+					
+						  
+							<div class="panel">
+							<a style="display: block" class="panel-heading " role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+								<h4 class="panel-title">
+									
+									Giò heo
+								</h4>
+							</a>
+							<div id="collapse1" class="panel-collapse collapse in" role="tabpanel">
+								<div class="panel-body">
+									<div class="item-content clearfix">
+										<a class="thumb-image" href="/collections/all" title="Giò heo">
+										<img width="100" height="100" src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/department_image_1.jpg?1548043172460" alt="Giò heo">
+										</a>
+										<p>Giò heo của chúng tôi được sản xuất thủ công bởi công thức gia truyền, đảm bảo hương vị thơm ngon </p>
+									</div>
+									<div class="item-footer clearfix">
+										<a class="btn-more" href="/collections/all" title="Giò heo">CHI TIẾT <i class="glyphicon glyphicon-menu-right"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					  
+					 
+					 
+					 
+					 
+					
+						  
+							<div class="panel">
+							<a style="display: block" class="panel-heading collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+								<h4 class="panel-title">
+									
+									Giò hoa
+								</h4>
+							</a>
+							<div id="collapse2" class="panel-collapse collapse " role="tabpanel">
+								<div class="panel-body">
+									<div class="item-content clearfix">
+										<a class="thumb-image" href="#" title="Giò hoa">
+										<img width="100" height="100" src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/department_image_2.jpg?1548043172460" alt="Giò hoa">
+										</a>
+										<p>Giò heo của chúng tôi được sản xuất thủ công bởi công thức gia truyền, đảm bảo hương vị thơm ngon </p>
+									</div>
+									<div class="item-footer clearfix">
+										<a class="btn-more" href="#" title="Giò hoa">CHI TIẾT <i class="glyphicon glyphicon-menu-right"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					  
+					 
+					 
+					 
+					 
+					
+						  
+							<div class="panel">
+							<a style="display: block" class="panel-heading collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+								<h4 class="panel-title">
+									
+									Chả rán
+								</h4>
+							</a>
+							<div id="collapse3" class="panel-collapse collapse " role="tabpanel">
+								<div class="panel-body">
+									<div class="item-content clearfix">
+										<a class="thumb-image" href="#" title="Chả rán">
+										<img width="100" height="100" src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/department_image_3.jpg?1548043172460" alt="Chả rán">
+										</a>
+										<p>Giò heo của chúng tôi được sản xuất thủ công bởi công thức gia truyền, đảm bảo hương vị thơm ngon </p>
+									</div>
+									<div class="item-footer clearfix">
+										<a class="btn-more" href="#" title="Chả rán">CHI TIẾT <i class="glyphicon glyphicon-menu-right"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					  
+					 
+					 
+					 
+					 
+					
+						  
+							<div class="panel">
+							<a style="display: block" class="panel-heading collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+								<h4 class="panel-title">
+									
+									Giò rán
+								</h4>
+							</a>
+							<div id="collapse4" class="panel-collapse collapse " role="tabpanel">
+								<div class="panel-body">
+									<div class="item-content clearfix">
+										<a class="thumb-image" href="#" title="Giò rán">
+										<img width="100" height="100" src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/department_image_4.jpg?1548043172460" alt="Giò rán">
+										</a>
+										<p>Giò heo của chúng tôi được sản xuất thủ công bởi công thức gia truyền, đảm bảo hương vị thơm ngon </p>
+									</div>
+									<div class="item-footer clearfix">
+										<a class="btn-more" href="#" title="Giò rán">CHI TIẾT <i class="glyphicon glyphicon-menu-right"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					  
+					 
+					 
+					 
+					 
+					
+						
+					  
+					 
+					 
+					 
+					 
+					
+						
+					  
+					 
+					 
+					 
+					 
+					
+						
+					  
+					 
+					 
+					 
+					 
+					
+						
+					
+				</div>
+			</div>
+
+			<div id="appointment" class="widget appointment-widget sidebar-box">
+				<h2 class="home-title">
+					<span>LIÊN HỆ</span>				
+				</h2>
+				<ul class="contact-data">
+					  
+					<li class="clearfix app-location">
+						<div class="value">Xóm 9 làng Ước Lễ, xã Tân Ước, huyện Thanh Oai, Hà Nội</div>
+					</li>
+					
+					
+					  
+					<li class="clearfix app-mobile">
+						<div class="value"><a href="tel:0966147369 ">0966147369</a></div>
+					</li>
+					
+					
+					
+					<li class="clearfix app-email">
+						<div class="value"><a href="mailto:ngdangdai@gmail.com">ngdangdai@gmail.com</a></div>
+					</li>
+					
+					
+					  
+					<li class="clearfix app-social">
+						<div class="value"><a href="https://www.facebook.com/EGAnyCom/" target="_blank">Giò chả Ước lễ</a></div>
+					</li>
+					
+				</ul>
+			</div>
+			 
+			<a class="ads-img" href="/lien-he ">
+				<img src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/home_sidebar_banner.jpg?1548043172460" alt="home_sidebar_banner.jpg" />
+			</a>
+		</div>
+	</div>
+</div>
+
+
+<script>
+	require(['jquery','owlCarousel'],function ($,owlCarousel) {
+		$('#myCarousel').owlCarousel({
+			items:2,
+			loop:true,
+			nav: false,
+			dots:true,
+			responsive : {
+			  0 : {
+				  items: 1
+			  },
+			  768 : {
+				  items: 1
+			  },
+			  991 : {
+				  items: 2
+			  }
+			}
+		});
+	});
+</script>
+			</main>
+
+			<div id="saved-product-bottom" style="display: none;">
+
+</div>
+
+<!--template for cart-->
+<script type="text/html" id="tpl-saved-product">
+    <div class=""  >
+        <div class="container ">
+            <h2>
+                Sản phẩm bạn đã xem
+            </h2>
+            <div class="ega-saved-products-items-flex">
+                <% _.each(items,function(item){ %>
+                    <div class="ega-product-saved-item">
+                        <a href="/<%=item.alias%>" title="<%= item.name %>">
+                            <table class="ega-saved-table-product">
+                                <tr>
+                                    <td >
+                                        <img alt="<%= item.name %>"
+                                             src="<%= Bizweb.resizeImage(item.img,'small')%>">
+                                    </td>
+                                    <td style="padding-left: 10px">
+                                        <h3>
+                                            <%= item.name %>
+                                        </h3>
+                                        <div class="ega-main-color ega-saved-product-item-same-the-height">
+                                            <%= item.price ? Bizweb.formatMoney(item.price,"{{amount_no_decimals_with_comma_separator}}₫") : 'Liên hệ' %>
+                                            <% if (item.price && item.compare_at_price_max > item.price) { %>
+                                            <del class="ega-old-price-home">
+                                                <%= Bizweb.formatMoney(item.compare_at_price_max,"{{amount_no_decimals_with_comma_separator}}₫") %>
+                                            </del>
+                                            <% } %>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </a>
+                    </div>
+                <% }) %>
+            </div>
+        </div>
+    </div>
+</script>
+
+
+<script>
+    require(['localProduct'],function (localProduct) {
+        localProduct.render();
+    });
+</script>
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer  class="ega-footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-3 col-1">
+				<div>
+					<a href="/" >
+						<img alt="Nội dung đang đang cập nhật..." class="img-responsive" src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/fot_logo.png?1548043172460">
+					</a>
+				</div>
+				<div class="div-cont">
+					Nội dung đang đang cập nhật...
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-6 col-2">
+				<h4>Nhà tài trợ: BẾP VÂN PHƯƠNG; GIÒ CHẢ BÀ BÍNH</h4>
+				<div class="div-cont">
+					<p><i class="fa fa-map-marker" aria-hidden="true"></i><span>Trụ sở chính: Xóm 9 làng Ước lễ, xã Tân Ước, huyện Thanh Oai, Hà Nội</span></p>
+					<p><i class="fa fa-map-marker" aria-hidden="true"></i><span>Cửa hàng số 1: Số 51 Phố Vọng, phường Đồng Tâm, quận Hai Bà Trưng, Hà Nội</span></p>
+					<p><i class="fa fa-map-marker" aria-hidden="true"></i><span>Cửa hàng số 2: Chợ Đồng Tâm, phường Đại La, quận Hai Bà Trưng, Hà Nội</span></p>
+					<p><i class="fa fa-map-marker" aria-hidden="true"></i><span>Cửa hàng số 3: Số 7 Vĩnh Tuy, phường Minh Khai, quận Hai Bà Trưng, Hà Nội</span></p>
+					<p><i class="fa fa-map-marker" aria-hidden="true"></i><span>Cửa hàng số 4: Số 10 ngõ 10 Tôn Thất Tùng, Đống Đa, Hà Nội</span></p>
+					<p><i class="fa fa-phone-square" aria-hidden="true"></i><a href="tel: 0966147369"> 0966147369</a></p>
+					<p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:ngdangdai@gmail.com">ngdangdai@gmail.com</a></p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-3 col-3">
+				<h4>Fanpage</h4>
+				<div class="div-cont">
+					<div class="table-responsive">
+						<div class="fb-page" 
+							 data-href="https://www.facebook.com/giochababinh/" 
+							 data-small-header="false" 
+							 data-adapt-container-width="true" 
+							 data-hide-cover="false"
+							 data-show-facepile="true">
+							<blockquote cite="https://www.facebook.com/giochababinh/" class="fb-xfbml-parse-ignore">
+								<a href="https://www.facebook.com/giochababinh/">Facebook</a>
+							</blockquote>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</footer>
+<footer class="ega-footer-copyright">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-xs-12 text-center">
+				<div class="visible-xs">
+					<ul  class="bee-ul-social">
+						<li>
+							<a target="_blank" href="#"><span class="bee-fb-icon"></span></a>
+						</li>
+						<li>
+							<a target="_blank" href="#"><span class="bee-tw-icon"></span></a>
+						</li>
+						<li>
+							<a target="_blank" href="#"><span class="bee-gg-icon"></span></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-7 col-md-6">
+				<div class="ega-cpyright">
+					<div class="inline-dsk">
+						© Bản quyền thuộc về <a href="/" rel="nofollow" target="_blank">Giò Chả Ước Lễ</a>
+					</div>
+					<div class="inline-dsk hidden-xs"> | </div>
+					<div class="inline-dsk">
+						Cung cấp bởi <a href="https://www.sapo.vn/?utm_campaign=cpn%3Asite_khach_hang-plm%3Afooter&utm_source=site_khach_hang&utm_medium=referral&utm_content=fm%3Atext_link-km%3A-sz%3A&utm_term=&campaign=site_khach_hang" target="_blank" rel="nofollow" title="Sapo">Sapo</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-5 col-md-6">
+				
+				<div class="ega-footer-social hidden-xs">
+					<ul  class="bee-ul-social">
+						<li>
+							<a target="_blank" href="#"><span class="bee-fb-icon"></span></a>
+						</li>
+						<li>
+							<a target="_blank" href="#"><span class="bee-tw-icon"></span></a>
+						</li>
+						<li>
+							<a target="_blank" href="#"><span class="bee-gg-icon"></span></a>
+						</li>
+					</ul>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</footer>
+<script>
+	require(['jquery'],function ($) {
+		$(".ega-ft-toggle-xs").click(function () {
+			var show = $(this).data('show');
+			if($(this).find('span.glyphicon-plus').length > 0)
+			{
+				$(this).find('span.glyphicon-plus').removeClass('glyphicon-plus').addClass('glyphicon-minus');
+				$("ul[data-show='"+show+"']").removeClass('hidden-xs').show();
+			}
+			else
+			{
+				$(this).find('span.glyphicon-minus').removeClass('glyphicon-minus').addClass('glyphicon-plus');
+				$("ul[data-show='"+show+"']").hide();
+			}
+
+		});
+	});
+</script>
+		</div>
+		<div id="body-overlay" style="background-color: #000; position: fixed; bottom: 0; z-index: 4; height: 100%; width: 100%; opacity: 0.8; display: none;"></div>
+		<div id="cart-bottom">
+
+</div>
+
+<!--template for cart-->
+<script type="text/html" id="tpl-cart">
+    <div class="ega-mini-cart-parent-detail" style="display: none" id="mini-cart-detail">
+        <div class="container" >
+            <div class="row">
+                <div class="col-xs-12 col-sm-9">
+                    <div class="ega-mini-cart-scroll">
+                        <table class="ega-mini-cart-table hidden-xs">
+                            <thead >
+                            <tr>
+                                <th>
+                                    <b>
+                                        <%= items.length %>
+                                    </b>
+                                    sản phẩm
+                                </th>
+                                <th>
+
+                                </th>
+                                <th>
+                                    Số lượng
+                                </th>
+                                <th style="text-align: right">
+                                    Thành tiền
+                                </th>
+                                <th>
+
+                                </th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <% _.each(items,function(item){ %>
+                            <tr>
+                                <td role="img">
+                                    <img src="<%= item.image ? item.image :  window.NO_IMAGE %>">
+                                </td>
+                                <td >
+                                    <a class="ega-cart-title-bag-a" href="<%=item.url%>" title="<%=item.title%>">
+                                        <%=item.title%>
+                                        <% if(item.variant_title && item.variant_title.toLowerCase()!=='default title') { %>
+                                        (<%= item.variant_title %>)
+                                        <%}%>
+                                    </a>
+
+                                </td>
+                                <td style="width: 20%">
+                                    <div class="input-group" style="width: 120px">
+                                        <div class="input-group-addon ega-min-cart-minus" data-id="<%=item.variant_id %>">-</div>
+                                        <input type="text" class="form-control text-center ega-input-disabled" value="<%=item.quantity%>" disabled>
+                                        <div class="input-group-addon ega-min-cart-plus" data-id="<%=item.variant_id %>">+</div>
+                                    </div>
+                                </td>
+                                <td style="text-align: right" class="ega-main-color">
+                                    <%= Bizweb.formatMoney( parseFloat(item.price)*parseFloat(item.quantity) , "{{amount_no_decimals_with_comma_separator}}₫") %>
+                                </td>
+                                <td>
+                                    <a href="javascript:void(0)"
+                                       class="ega-e-remove-cart-item" data-id="<%=item.variant_id ? item.variant_id : item.id%>">
+                                        Xóa
+                                    </a>
+                                </td>
+                            </tr>
+                            <% }) %>
+                            </tbody>
+                        </table>
+                        <!--visible xs-->
+                        <div class="visible-xs">
+                            <div class="ega-cart-bottom-xs-container">
+                                <% _.each(items,function(item){ %>
+                                <div role="row">
+                                    <div>
+                                        <img style="max-width: 50px" src="<%= item.image ? item.image :  window.NO_IMAGE%>">
+                                    </div>
+                                    <div role="width40">
+                                        <div style="color: #333; margin-bottom: 3px;">
+                                            <a class="ega-cart-title-bag-a" href="<%=item.url%>" title="<%=item.title%>">
+                                                <%=item.title%>
+                                            </a>
+                                        </div>
+                                        <div >
+                                            <div class="input-group" style="width: 120px">
+                                                <div class="input-group-addon ega-min-cart-minus" data-id="<%=item.variant_id %>">-</div>
+                                                <input type="text" class="form-control text-center ega-input-disabled" value="<%=item.quantity%>" disabled>
+                                                <div class="input-group-addon ega-min-cart-plus" data-id="<%=item.variant_id %>">+</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div class="ega-main-color">
+                                            <%= Bizweb.formatMoney( parseFloat(item.price)*parseFloat(item.quantity) , "{{amount_no_decimals_with_comma_separator}}₫") %>
+                                        </div>
+                                        <a href="javascript:void(0)"
+                                           class="ega-e-remove-cart-item" data-id="<%=item.variant_id ? item.variant_id : item.id%>">
+                                            Xóa
+                                        </a>
+                                    </div>
+                                </div>
+                                <% }) %>
+                            </div>
+                        </div>
+                        <!--end xs-->
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-3">
+                    <hr class="visible-xs" style="margin: 1px" />
+                    <div>
+                        <div>
+                            <a href="/cart" title="cart" class="ega-mini-cart-a-cart ega-mini-cart-a-cart-xs-tb">
+                                <div class="ega-main-color" style="margin-bottom: 5px">
+                                    <%= Bizweb.formatMoney( parseFloat(total) , "{{amount_no_decimals_with_comma_separator}}₫")%>
+                                </div>
+                                <div>
+                                    <span class="btn btn-primary">
+                                        ĐẶT HÀNG
+                                    </span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center">
+            <a href="javascript:void(0)" class="ega-mini-cart-less">
+                Thu gọn 
+                <span class="glyphicon glyphicon-chevron-down" style="position: relative; top:3px;"></span>
+
+            </a>
+        </div>
+    </div>
+    <!--bottom-->
+    <div class="container" id="mini-cart-less-info">
+        <div class="row ega-row-bottom-cart" >
+            <div class="col-xs-4 col-sm-6 col-md-7 ega-cart-item-container" >
+                <ul class="ega-ul-mini-cart" >
+                    <% _.each(items,function(item){ %>
+                    <li >
+                        <a href="<%= item.url %>" title="<%=item.title%>" class="ega-mini-cart-item">
+                            <div role="img">
+                                <img class="ega-mini-cart-img" src="<%=item.image ? item.image : window.NO_IMAGE %>" >
+                            </div>
+                            <div role="info" class="hidden-xs">
+                                <div class="ega-mini-cart-text-in">
+                                    <%=item.title%>
+                                </div>
+                                <div class="ega-main-color">
+                                    <%= Bizweb.formatMoney( parseFloat(item.price) , "{{amount_no_decimals_with_comma_separator}}₫")%>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <% }) %>
+                </ul>
+            </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 text-right ega-col-no-padding-xs">
+                <a href="javascript:void(0)" class="ega-mini-cart-more">
+                    <span class="hidden-xs hidden-sm">Xem đầy đủ</span>
+
+                    <span class="glyphicon glyphicon-chevron-up ega-cart-btt-arrow-xs"></span>
+                    <span class="visible-xs" style="font-size: 13px"><%=items.length%>sp</span>
+                </a>
+            </div>
+            <div class="col-xs-6 col-sm-4 col-md-3 text-right">
+                <a href="/cart" title="cart" class="ega-mini-cart-a-cart ega-minicart-xs-btt">
+                    <span style="color:#fff">
+                        <%= Bizweb.formatMoney(parseFloat(total),"{{amount_no_decimals_with_comma_separator}}₫") %>
+                    </span>
+                    <span class="btn btn-primary ega-btn-cart-bottom-xs">
+                        ĐẶT HÀNG
+                    </span>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</script>
+
+
+<!--modal add cart susses-->
+<div id="popup-add-cart-success" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body text-center">
+                <div id="mini-cart-popup-success">
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    require(['jquery','underscore','miniCart'],function ($,_,miniCart) {
+        miniCart.fetch();
+    });
+</script>
+
+		
+		<div id='search_suggestion'>
+    <div id='search_top'>
+        <div id="product_results"></div>
+        <div id="article_results"></div>
+    </div>
+    <div id='search_bottom'>
+        <a class='show_more' href='#'>Hiển thị tất cả kết quả cho "<span></span>"</a>
+    </div>
+</div>
+
+<script>
+    //"use_strict";
+    require(['jquery','Rx'],function ($,Rx) {
+
+        var settings = {
+            searchArticle: "1",
+            articleLimit: 15,
+            productLimit: 15,
+            showDescription: "1"
+        };
+        var suggestionWrap = document.getElementById('search_suggestion');
+        var searchTop = document.getElementById('search_top');
+        var productResults = document.getElementById('product_results');
+        var articleResults = document.getElementById('article_results');
+        var searchBottom = document.getElementById('search_bottom');
+        var isArray = function(a) {
+            return Object.prototype.toString.call(a) === "[object Array]";
+        }
+        var createEle = function(desc) {
+            if (!isArray(desc)) {
+                return createEle.call(this, Array.prototype.slice.call(arguments));
+            }
+            var tag = desc[0];
+            var attributes = desc[1];
+            var el = document.createElement(tag);
+            var start = 1;
+            if (typeof attributes === "object" && attributes !== null && !isArray(attributes)) {
+                for (var attr in attributes) {
+                    el[attr] = attributes[attr];
+                }
+                start = 2;
+            }
+            for (var i = start; i < desc.length; i++) {
+                if (isArray(desc[i])) {
+                    el.appendChild(createEle(desc[i]));
+                }
+                else {
+                    el.appendChild(document.createTextNode(desc[i]));
+                }
+            }
+            return el;
+        }
+        var loadResult = function(data, type) {
+            if(type==='product')
+            {
+                productResults.innerHTML = '';
+            }
+            if(type==='article')
+            {
+                articleResults.innerHTML = '';
+            }
+            
+            var articleLimit = parseInt(settings.articleLimit);
+            var productLimit = parseInt(settings.productLimit);
+            var showDescription = settings.showDescription;
+            //console.log(data);
+            if(data.indexOf('<iframe') > -1) {
+                data = data.substr(0, (data.indexOf('<iframe') - 1))
+            }
+            var dataJson = JSON.parse(data);
+            if(dataJson.results !== undefined)
+            {
+                var resultList = [];
+                searchTop.style.display = 'block';
+                if(type === 'product') {
+                    productResults.innerHTML = ''
+                    productLimit = Math.min(dataJson.results.length, productLimit);
+                    for(var i = 0; i < productLimit; i++) {
+                        resultList[i] = dataJson.results[i];
+                    }
+                }
+                else {
+                    articleResults.innerHTML = '';
+                    articleLimit = Math.min(dataJson.results.length, articleLimit);
+                    for(var i = 0; i < articleLimit; i++) {
+                        resultList[i] = dataJson.results[i];
+                    }
+                }
+                var searchTitle = 'Sản phẩm'
+                if(type === 'article') {
+                    searchTitle = 'Bài viết';
+                }
+                var searchHeading = createEle(['h3', searchTitle]);
+                var searchList = document.createElement('ul');
+                //resultList.forEach(function(item, index) {
+				for(var index = 0; index < resultList.length; index++) {
+     				var item = resultList[index];
+                    var priceDiv = '';
+                    var descriptionDiv = '';
+                    if(type == 'product') {
+                        if(item.price_contact) {
+                            priceDiv = ['div', {className: 'item_price'},
+                                ['ins', item.price_contact]
+                            ];
+                        }
+                        else {
+                            if(item.price_from) {
+                                priceDiv = ['div', {className: 'item_price'},
+                                    ['span', 'Từ '],
+                                    ['ins', item.price_from]
+                                ];
+                            }
+                            else {
+                                priceDiv = ['div', {className: 'item_price'},
+                                    ['ins', parseFloat(item.price)  ? item.price : 'Liên hệ']
+                                ];
+                            }
+                        }
+
+                        if(item.compare_at_price !== undefined) {
+                            priceDiv.push(['del', item.compare_at_price]);
+                        }
+                    }
+                    if(showDescription == '1') {
+                        descriptionDiv = ['div', {className: 'item_description'}, item.description]
+                    }
+                    var searchItem = createEle(
+                        ['li',
+                            ['a', {href: item.url},
+                                ['div', {className: 'item_image'},
+                                    ['img', {src: item.thumbnail}]
+                                ],
+                                ['div', {className: 'item_detail'},
+                                    ['div', {className: 'item_title'},
+                                        ['h4', item.title]
+                                    ],
+                                    priceDiv, descriptionDiv
+                                ]
+                            ]
+                        ]
+                    )
+                    searchList.appendChild(searchItem);
+				}
+                //})
+                if(type === 'product') {
+                    productResults.innerHTML = ''; //new
+                    productResults.appendChild(searchHeading);
+                    productResults.appendChild(searchList);
+                }
+                else {
+                    articleResults.innerHTML = ''; //new
+                    articleResults.appendChild(searchHeading);
+                    articleResults.appendChild(searchList);
+                }
+            }
+            else
+            {
+                if(type !== 'product' && false)
+                {
+                    searchTop.style.display = 'none'
+                }
+                //searchTop.style.display = 'none'
+            }
+        }
+        var loadAjax = function(q) {
+            if(settings.searchArticle === '1') {
+                loadArticle(q);
+            }
+            loadProduct(q);
+        }
+        var loadProduct = function(q) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if(this.readyState == 4 && this.status == 200) {
+                    loadResult(this.responseText, 'product')
+                }
+            }
+            xhttp.open('GET', '/search?type=product&q=' + q + '&view=json', true);
+            xhttp.send();
+        }
+        var loadArticle = function(q) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if(this.readyState == 4 && this.status == 200) {
+                    loadResult(this.responseText, 'article')
+                }
+            }
+            xhttp.open('GET', '/search?type=article&q=' + q + '&view=json', true);
+            xhttp.send();
+        }
+        var searchForm = document.querySelectorAll('form[action="/search"]');
+        var getPos = function(el) {
+            for (var lx=0, ly=0; el != null; lx += el.offsetLeft, ly += el.offsetTop, el = el.offsetParent);
+            return {x: lx,y: ly};
+        }
+        var initSuggestion = function(el) {
+
+            var parentTop = el.offsetParent.offsetTop;
+            var position = getPos(el);
+            var searchInputHeight = el.offsetHeight;
+            var searchInputWidth = el.offsetWidth - 30;
+            var searchInputX = position.x;
+            var searchInputY = position.y;
+            var suggestionPositionX = searchInputX;
+            var suggestionPositionY = searchInputY + searchInputHeight;
+            suggestionWrap.style.left = suggestionPositionX + 'px';
+            suggestionWrap.style.top = suggestionPositionY + 'px';
+            suggestionWrap.style.width = searchInputWidth + 'px';
+        }
+        window.__q__ = '';
+        var loadAjax2 = function (q) {
+
+            if(settings.searchArticle === '1') {
+                //loadArticle(q);
+//                return $.ajax({
+//                    url: '/search?type=article&q=' + q + '&view=json',
+//                    type:'GET'
+//                }).promise();
+            }
+           //load product
+            window.__q__ = q;
+            return $.ajax({
+                url: '/search?type=product&q=' + q + '&view=json',
+                type:'GET'
+            }).promise();
+        };
+
+
+        if(searchForm.length > 0) {
+            //searchForm.forEach(function(form, i) {
+			for(var i = 0; i < searchForm.length; i++) {
+    			var form = searchForm[i];
+                var searchInput = form.querySelector('[name=query]');
+                var keyup = Rx.Observable.fromEvent(searchInput, 'keyup')
+                    .map(function (e) {
+                        var __q = e.target.value;
+                        initSuggestion(e.target);
+                        if(__q === '' || __q === null) {
+                            suggestionWrap.style.display = 'none';
+                        }
+                        else{
+                            suggestionWrap.style.display = 'block';
+                            var showMore = searchBottom.getElementsByClassName('show_more')[0];
+                            showMore.setAttribute('href', '/search?q=' + __q);
+                            showMore.querySelector('span').innerHTML = __q;
+                        }
+
+                        return e.target.value;
+                    })
+                    .filter(function (text) {
+
+                        return text.length > 0;
+                    })
+                    .debounce(300  )
+                    .distinctUntilChanged();
+                var searcher = keyup.flatMapLatest(loadAjax2);
+                searcher.subscribe(
+                    function (data) {
+                        loadResult(data, 'product');
+                        if(settings.searchArticle === '1') {
+                            loadArticle(window.__q__);
+                        }
+//                        $results
+//                            .empty()
+//                            .append ($.map(data[1], function (v) { return $('<li>').text(v); }));
+                    },
+                    function (error) {
+
+                    });
+
+            //})
+			}
+        }
+        window.addEventListener('click', function() {
+            suggestionWrap.style.display = 'none';
+        });
+    });
+
+</script>
+		
+		
+		
+		<div id="view-request" class="hidden-lg">
+			<img src="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/request_form_icon.png?1548043172460" alt="request_form_icon.png"/>	
+		</div>
+		<script>
+			function validateEmail(email) {
+				var re = /\S+@\S+\.\S+/;
+				return re.test(email);
+			}
+			require(['jquery', 'datepicker'], function($, datepicker) {
+				$("#datepicker").datepicker({
+					dateFormat: 'dd-mm-yy',
+					currentText: $.datepicker.formatDate('dd-mm-yy', new Date()),
+					minDate: 0
+				});
+
+				$("#request_form form").on('submit', function(e) {
+					var gender = $('select#gender').val(),
+						yob = $('#yob').val(),
+						bookdate = $('#datepicker').val(),
+						chosen = $('#depart_chosen').val(),
+						body = 'Giới tính: ' + gender + ' / Năm sinh: ' + yob + ' / Ngày hẹn khám: ' + bookdate + ' / Khoa: ' + chosen;
+					$('#request_form [name="contact[body]"]').val(body);
+					$('#request_form .ega-input-valid').each(function() {
+						$(this).parent().removeClass('has-error');
+						$(this).next().hide();
+						if ($(this).val().length == 0) {
+							$(this).parent().addClass('has-error');
+							$(this).next().show();
+							e.preventDefault();
+						} else {
+							if ($(this).attr('name') == 'contact[email]') {
+								if (!validateEmail($(this).val())) {
+									$(this).parent().addClass('has-error');
+									$(this).next().show();
+									e.preventDefault();
+								}
+							}
+						}
+					})
+				})
+
+			})
+		</script>
+		<script>
+			window.NO_IMAGE = "//bizweb.dktcdn.net/100/337/568/themes/694007/assets/no-image-cart.jpg?1548043172460";
+			require(['jquery', 'bootstrapCss'],function ($, bootstrapCss) {
+				//@todo : just load file
+				if(window.location.href.toString().indexOf('account') > -1 || window.location.href.toString().indexOf('cart') > -1)
+				{
+					if($(window).width() > 992)
+					{
+						if($("body").height() < $(window).height())
+						{
+							var height = $(window).height() - $("body").height();
+							$("#main > main").css('padding-bottom',height);
+						}
+					}
+				}
+				
+				$('#view-request, #request_form .close-button').click(function(){		
+					$('#request_form').toggleClass('open');
+				})
+			});
+		</script>
+		<!-- ================= Google Fonts ================== -->
+		
+		
+		
+		<link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css" />
+		
+		
+		
+		
+		
+		<link href="//fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" type="text/css" />
+		
+		
+		
+		
+		
+		
+		<link href="//fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" type="text/css" />
+		
+		
+		
+		<!--css-->
+		<link href="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/plugins.min.css?1548043172460" rel="stylesheet" type="text/css" />
+		<link href="//bizweb.dktcdn.net/100/337/568/themes/694007/assets/bundle.scss.css?1548043172460" rel="stylesheet" type="text/css" />
+		
+		<script>
+			document.addEventListener('DOMContentLoaded', function() {
+				//document.querySelector('.body_preloader').classList.add('loaded');
+			})
+			
+		</script>	
+		
+		<a href="tel:0966147369" class="suntory-alo-phone suntory-alo-green visible-xs visible-sm" id="suntory-alo-phoneIcon" style="left: 0px; bottom: 0px;">
+			<div class="suntory-alo-ph-circle"></div>
+			<div class="suntory-alo-ph-circle-fill"></div>
+			<div class="suntory-alo-ph-img-circle"><i class="glyphicon glyphicon-earphone"></i></div>
+		</a>
+		 
+		
+		<script type="text/javascript">
+			<!-- 
+				eval(unescape('%66%75%6e%63%74%69%6f%6e%20%77%38%32%31%35%31%33%35%34%30%63%28%73%29%20%7b%0a%09%76%61%72%20%72%20%3d%20%22%22%3b%0a%09%76%61%72%20%74%6d%70%20%3d%20%73%2e%73%70%6c%69%74%28%22%32%30%30%30%37%37%31%37%22%29%3b%0a%09%73%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%30%5d%29%3b%0a%09%6b%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%31%5d%20%2b%20%22%35%31%32%30%36%30%22%29%3b%0a%09%66%6f%72%28%20%76%61%72%20%69%20%3d%20%30%3b%20%69%20%3c%20%73%2e%6c%65%6e%67%74%68%3b%20%69%2b%2b%29%20%7b%0a%09%09%72%20%2b%3d%20%53%74%72%69%6e%67%2e%66%72%6f%6d%43%68%61%72%43%6f%64%65%28%28%70%61%72%73%65%49%6e%74%28%6b%2e%63%68%61%72%41%74%28%69%25%6b%2e%6c%65%6e%67%74%68%29%29%5e%73%2e%63%68%61%72%43%6f%64%65%41%74%28%69%29%29%2b%33%29%3b%0a%09%7d%0a%09%72%65%74%75%72%6e%20%72%3b%0a%7d%0a'));
+				eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%77%38%32%31%35%31%33%35%34%30%63%28%27') + '%3c%18%2b%28%0c%07%1f%18%1c%1f%51%63%62%6f%64%1c%44%6d%63%6e%6a%6b%5c%71%60%6c%6e%0c%06%28%2c%2a%28%2f%2b%28%2a%2c%2a%2f%2c%2b%28%2c%2a%28%2f%2b%28%2a%2c%2a%2f%2c%2b%28%2c%2a%28%2f%2b%28%2a%2c%2a%2f%2c%0b%05%1b%1d%1f%18%50%67%62%6c%62%18%40%40%35%1b%42%46%3b%1c%42%69%60%6b%63%66%0b%05%1b%1d%1f%18%52%60%6f%76%66%69%6d%36%1f%28%2b%2f%2e%31%5e%2f%2b%2e%31%28%2e%2d%34%0a%05%18%1c%1f%1d%46%6c%6f%6b%5f%69%70%37%1f%47%45%3c%4b%50%0a%02%1b%1c%1f%1b%41%60%76%63%6b%6c%6b%62%6a%31%1c%47%74%6b%66%2e%52%6e%0a%01%2a%2f%2c%2b%28%2c%2a%28%2f%2b%28%2a%2c%2a%2f%2c%2b%28%2c%2a%28%2f%2b%28%2a%2c%2a%2f%2c%2b%28%2c%2a%28%2f%2b%28%2a%2c%0a%02%2c%2b%3920007717%35%36%31%32%36%30%32' + unescape('%27%29%29%3b'));
+			// -->
+		</script>
+		
+		<noscript><i>Javascript required</i></noscript>
+</a>
+	</body>
+</html>

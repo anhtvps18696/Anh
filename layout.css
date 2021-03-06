@@ -1,0 +1,327 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#page{
+    width: 1000px;
+    margin: 0px auto;
+    position: relative;
+    
+}
+header{
+    height: 0px;
+    background-color: aqua;
+    background-image: url('image/fpoly.jpg');
+    background-size: 100% 100%;
+    padding-bottom: 25%;  
+}
+}
+nav{
+    line-height: 40px;
+    background-color: white;
+    text-align: center;
+    background-color: orange;
+    font-variant: small-caps;
+}
+section{
+    width: 100%;
+}
+article{
+    min-height: 400px;
+    background-color: white;
+    width: 75%;
+    float: left;
+}
+aside{
+    min-height: 400px;
+    background-color: lightgray;
+    width: 25%;
+    float: right;
+
+}
+footer{
+    border-top:5px double orangered;
+   line-height:50px;
+   background-color:lightcyan;
+   text-align:center;
+   font-variant:small-caps;
+   clear:both;
+}
+.menu>ul>li{
+    display: inline-block;
+    position: relative;
+}
+.menu>ul>li>a{
+    display: block;
+}
+.menu>ul{
+    padding:0px;
+    margin:0px;
+    list-style:none;
+    border-radius:3px;
+    background-color:orangered;
+    text-align:center;
+}
+.menu>ul>li>a{
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: larger;
+    color:white;
+    padding: 0 10px;
+    line-height: 40px;
+}
+.menu>ul>li>a:hover{
+    color: yellow;
+}
+.menu ul ul{
+    display: none;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border-radius: 3px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0px 0px 1px gray;
+}
+.nemu ul ul a{
+    display:block;    
+    line-height: 30px;
+    color: orange;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: larger;
+    padding: 0 10px;
+}
+.menu ul ul a:hover{
+    color: white;
+    background-color: orange;
+}
+.menu>ul>li:hover>ul{
+    display: block;
+    color: white;
+    background-color: orange;
+}
+/*Menu trong aside*/
+ul.vmenu{
+    margin: 5px;
+    padding: 0px;
+    border-radius: 3px;
+    box-shadow: 0 0 2px gray;
+    list-style: none;
+}
+ul.vmenu a{
+  background: url('image/camap.png') no-repeat 10px center;
+  display: block;
+  border-bottom: 1 pixel dotted orangered;
+  color: orangered;
+  font-variant: small-caps;
+   font-size: larger;
+  text-decoration: none;
+  padding: 8px 5px 8px 30px;
+}
+ul.vmenu a:hover{
+    background: url('image/cavoi.png') no-repeat 10px center;
+    border-bottom:  1px dotted white;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+}
+/*12Promax*/
+.col-25{
+    width: 25%;
+    float: left;
+}
+.prod{
+    border-radius:10px;
+    box-shadow:0 0 5px gray;
+    margin:5px;
+    padding:5px;
+    text-align:center;
+    position: relative;
+}
+.prof>.name{
+    font-variant:small-caps;
+    color:orangered;
+}
+.prod>.image{
+    max-width:98%;
+    height:150px;
+    margin-bottom:10px;
+}
+.prod>.price{
+    font-family: Impact;
+    color: orange;
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    font-size: 25px;
+}
+.prod>.icon{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 25px;
+}
+.header{
+    background-color: aqua;
+    background-image: url('image/fpoly.jpg');
+    position: relative;
+}
+.top-right{
+    Position:absolute;
+    Top:0px;
+    Right:0px;
+    Border-bottom-left-radius: 30px;
+    background-color: orange;
+    font-family: Impact;
+    color: white;
+} 
+.company-info {
+   top: 10px;
+   Left:15px;
+   font-family: Impact;
+   color: white;
+   text-shadow: 0px 2px orange;
+   font-size: 50px;
+
+}
+.row1{
+    height: 50px;
+}
+.column1{
+    width: 320px;
+    border: none;
+    margin: 20px;
+    float: left;
+  
+    
+
+}
+.column2{
+    width: 650px;
+    border: none;
+    margin: 20px;
+    float: left;
+    height: 250px;
+
+}
+.column2>h2{
+    color: blue;
+}
+table{
+        
+    width: 85%;
+    line-height: 40px;
+    bottom: 50px;
+    border-collapse: collapse;
+}
+
+
+td, th{
+border: 1px solid rgb(51, 99, 51);
+
+}
+
+
+tr:first-child{
+background-color: green;
+width:100px;
+}
+
+.row1{
+height: 50px;
+}
+.column1{
+width: 320px;
+border: none;
+margin: 20px;
+float: left;
+
+
+
+}
+.column2{
+width: 650px;
+border: none;
+margin: 20px;
+float: left;
+height: 250px;
+
+}
+.column2>h2{
+color: blue;
+}
+
+
+table{
+        
+    width: 85%;
+    line-height: 40px;
+    bottom: 50px;
+    border-collapse: collapse;
+}
+
+
+td, th{
+border: 2px solid rgb(140, 140, 192);
+
+}
+
+
+tr:first-child{
+background-color: rgb(74, 74, 197);
+width:100px;
+}
+
+.row1{
+height: 50px;
+}
+.column1{
+width: 320px;
+border: none;
+margin: 20px;
+float: left;
+}
+.from-group{
+    margin: 10px 0px;
+}
+.from-control{
+    margin: 3px 0px;
+    padding: 5px;
+    border: 1px  solid gray;
+    width: 98%;
+    border-radius: 3px;
+    box-shadow: 0 0 3px;
+    color: orange;
+    display: block;
+    outline: none;
+}
+.from-group:focus{
+    background-color:yellow;
+    box-shadow:0 0 3px red;
+    border: 1px solid yellow;
+}
+.form-group label{
+    font-weight:bold;
+    font-variant:small-caps;
+   }
+   .form-control:focus{
+    background-color:yellow;
+    box-shadow:0 0 3px red;
+    border:1 pixel solid yellow;
+   }
+   .form-button{
+    padding:8px 30px;
+    outline:none;
+    border:none;
+    border-radius:20px;
+    font-weight:bold;
+    background-color:white;
+    color:orangered;
+    box-shadow:inset 0 0 20px blue;
+   }
+   .form-button:hover{
+    color:blue;
+    box-shadow:inset 0 0 20px orangered;
+   }
